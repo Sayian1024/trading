@@ -1,0 +1,7 @@
+.apexcharts-menu-open {
+    background: black !important;
+}
+
+.apexcharts-menu-item:hover {
+    background: #0000FF !important;
+}
